@@ -1,1 +1,2 @@
-print("zaza")
+msg = "lala pizza"
+tag = "python"
